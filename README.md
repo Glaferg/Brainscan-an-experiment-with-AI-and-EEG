@@ -1,3 +1,5 @@
 # Hello-world
-this is a test wow this is crazy \
-ooh my gooosh
+this is a test wow this is crazy
+SONIC PI ROCKS
+SAVE THE WORLD 
+IM A GITHUBBER! YEET!!!!
