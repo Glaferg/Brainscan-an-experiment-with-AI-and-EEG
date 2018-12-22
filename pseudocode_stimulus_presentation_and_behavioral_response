@@ -1,5 +1,5 @@
 -- Pseudo code could be impolemented in any number of languages
-
+-- at intro, headset program tests headset to see if variables change. Pseudo to come later.
 
 when start:
   activate serial(9000)
@@ -14,4 +14,10 @@ when start:
    While lastPressed not = b;
     lastpressed = key
    printIn(Item tests complete. Waiting for serial data from Mindflex. if youre using something better,this notification should resolve soon.)
-# this tells the headset arduino to stop sending out "Ready!" (or 1) and start giving data    serial.write(4) 
+# this tells the headset arduino to stop sending out "Ready!" (or 1) and start giving data    
+serial.write(4) 
+printIn(Test started)
+# i don't know how to code a lot of this part
+createWindow(fullscreen)
+ while tstDone =/:
+  
