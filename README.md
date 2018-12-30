@@ -8,7 +8,7 @@ more code and everything will come soon
 
 
 The goal of Brainscan: an experiment with AI and EEG is to teach a AI what boredom is via custom data software for recording
-data from two types of biosensors: HR (on the finger) and EEG. Currently testing software to stimulate boredom is under
+data from two types of biosensors: HR (on the finger) and EEG. Currently development of testing software to stimulate boredom is under
 development.
 
 
