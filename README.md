@@ -15,4 +15,4 @@ development.
 If you've come all this way for a wip, or want to get this project going faster, go work in issues! 
 There are so many issues and files, but if we keep working, this project will be done soon.
 
-So, what are you waiting for? Go to the wiki to see the code flowcharts and get working!!
+So, what are you waiting for? Go to the wiki to see plans and go to https://github.com/Glaferg/Brainscan-an-experiment-with-AI-and-EEG/tree/master/my%20journal the code flowcharts and get working!!
