@@ -36,6 +36,7 @@ in a few seconds, 11 inputs should be rolling in!!
 If they aren't: a) check to see if your board is plugged in b) reselect com/ACMO and you should be getting 11 inputs
 YOU NOW SHOULD BE READY TO ASSEMBLE THE HEADSET.
 Buy a Neurosky® mindflex headset and hack according to frontiernerds.com/brain-hack
+WARNING: the hack is half-duplex so once the hack is complete you will be able to get serial data but you won't be able to load code on
 
 # Roadmap:
 
