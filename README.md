@@ -17,7 +17,7 @@ This project is my debute and is a demo
 
 Materials:
 Working computer
-a human brain(no zombies or monkeys, sorry)
+two people(One to record mental state, one to test on
 Google Chrome or Firefox quantom web browser
 Internet(to download things)
 Arduino Nano(elegoo or arduino/genuino)
