@@ -23,9 +23,9 @@ Internet(to download things)
 Arduino Nano(elegoo or arduino/genuino)
 
 
-Download Wekinator from platforms/Wekinator
+Download Wekinator from http://www.wekinator.org/downloads/
 
-Download WekiInputHelper
+Download WekiInputHelper http://www.wekinator.org/input-helper/
 
 download wekinator's helper software for arduino input from http://www.wekinator.org/examples/#Arduino. DO NOT INSTALL RUN ON ARDUINO.
 
