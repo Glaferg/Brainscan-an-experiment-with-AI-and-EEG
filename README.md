@@ -4,7 +4,7 @@ By Gabriel Fergesen
 
 
 
-more code will come soon
+more documentation will come soon
 
 
 The goal of Brainscan: an experiment with AI and EEG is to teach a AI what boredom is via custom data software for recording
@@ -67,7 +67,9 @@ You should be finished with assembling your WekiBrain rig!
 # How to operate
 
 So you're in. The Nano is running, data is flowing to Wekinator... What next?
-[ this segment is under construction]
+How to train the AI, of course. Inside Wekinator's beautiful visual wrapper for AI, there are 3 rows of neat little bars with names. First, the +/- on each row. Quite simply, the + records data into the ai's gesture, and the - removes the last record into the gesture. Each gesture is designed to isolate a condition. When the AI is running, the swirling blue bars show how certain the AI is, and the green light shows which thing is the AI's best guess.   
+
+
 # Roadmap:
 
 1: inital commit
