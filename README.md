@@ -3,8 +3,8 @@ By Gabriel Fergesen
 
 
 
-# WARNING: this is a WORK IN PROGRESS
-more code and everything will come soon
+
+more code will come soon
 
 
 The goal of Brainscan: an experiment with AI and EEG is to teach a AI what boredom is via custom data software for recording
@@ -13,9 +13,15 @@ development.
 
 This project is my debute and is a demo
 
-# proceedure:
+# How to do it
 
-Proceedure
+Materials:
+Working computer
+a human brain(no zombies or monkeys, sorry)
+Google Chrome or Firefox quantom web browser
+Internet(to download things)
+Arduino Nano(elegoo or arduino/genuino)
+
 
 Download Wekinator from platforms/Wekinator
 Download WekiInputHelper
