@@ -11,8 +11,13 @@ The goal of Brainscan: an experiment with AI and EEG is to teach a AI what bored
 data from two types of biosensors: HR (on the finger) and EEG. Currently development of testing software to stimulate boredom is under
 development.
 
+This project is my debute and is a demo
 
-If you've come all this way for a wip, or want to get this project going faster, go work in issues! 
-There are so many issues and files, but if we keep working, this project will be done soon.
 
-So, what are you waiting for? Go to the wiki to see plans and go to https://github.com/Glaferg/Brainscan-an-experiment-with-AI-and-EEG/tree/master/my%20journal the code flowcharts and get working!!
+Roadmap:
+
+1: inital commit
+2: changed idea
+3.created WekiBrain helper software
+4:wekinator runtime 
+5: NOT DONE: build headset
