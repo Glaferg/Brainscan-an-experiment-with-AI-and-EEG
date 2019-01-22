@@ -62,14 +62,12 @@ YOU NOW SHOULD BE READY TO ASSEMBLE THE HEADSET.
 
 Buy a Neurosky® mindflex headset and hack according to frontiernerds.com/brain-hack
 
-WARNING: the hack is half-duplex so once the hack is complete you will be able to get serial data but you won't be able to load code on
-
 You should be finished with assembling your WekiBrain rig!
 
 # How to operate
 
 So you're in. The Nano is running, data is flowing to Wekinator... What next?
-How to train the AI, of course. Inside Wekinator's beautiful visual wrapper for AI, there are 3 rows of neat little bars with names. First, the +/- on each row. Quite simply, the + records data into the ai's gesture, and the - removes the last record into the gesture. Each gesture is designed to isolate a condition. When the AI is running, the swirling blue bars show how certain the AI is, and the green light shows which thing is the AI's best guess.   
+How to train the AI, of course. Inside Wekinator's beautiful visual wrapper for AI, there are 3 rows of neat little bars with names. First, the +/- on each row. Quite simply, the + records data into the ai's gesture, and the - removes the last record into the gesture. Each gesture is designed to isolate a condition. When the AI is running, the swirling blue bars show how certain the AI is, and the green light shows which thing is the AI's best guess. To make the AI more sensitive, drag the Match threshold bar up or down to decrese or increse sensitivity. 
 
 
 # Roadmap:
