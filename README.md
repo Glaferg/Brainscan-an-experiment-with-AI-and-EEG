@@ -37,6 +37,8 @@ look through your computer for an app called "serial with processing_adaptive in
 
 grab an arduino nano either ELEGOO OR ARDUINO/GENUINO brand
 
+update: Nanos are QUITE picky about computers. So find and install drivers before use...
+
 run and select the serial port your board is on. If you are on mac, this will appear as dev/tty/acmo/usb modem (insert number here) On windows, it appears as a COM port.
 
 It should say, "sending 0 inputs". Don't panic, this is normal.
