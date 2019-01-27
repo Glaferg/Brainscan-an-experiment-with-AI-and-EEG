@@ -8,7 +8,7 @@ more documentation will come soon
 
 
 The goal of Brainscan: an experiment with AI and EEG is to teach a AI what boredom is via custom data software for recording
-data from two types of biosensors: HR (on the finger) and EEG. Currently development of testing software to stimulate boredom is under
+data from two types of biosensors:  EEG. Currently development of testing software to stimulate boredom is under
 development.
 
 This project is my debute and is a demo
@@ -16,11 +16,13 @@ This project is my debute and is a demo
 # How to do it
 
 Materials:
-Working computer
-two people(One to record mental state, one to test on
-Google Chrome or Firefox quantom web browser
-Internet(to download things)
-Arduino Nano(elegoo or arduino/genuino)
+-Working computer
+-Two people(One to record mental state, one to test on
+-Google Chrome or Firefox quantom web browser
+-Internet(to download things)
+-Arduino Uno(elegoo or arduino/genuino)
+-Assembled modified Mindflex headset
+-The Github repository downloaded to access "Boardom sheets" and AI configuration files. 
 
 
 Download Wekinator from http://www.wekinator.org/downloads/
@@ -31,13 +33,11 @@ download wekinator's helper software for arduino input from http://www.wekinator
 
 Open WekiInputHelper and go to file/open project and select WekiBrain server. click Open.
 
-Repeat in Wekinator, but find the wekibrain AI file
+Repeat in Wekinator, but find the wekibrain AI file.
+
+grab an arduino uno either ELEGOO OR ARDUINO/GENUINO brand
 
 look through your computer for an app called "serial with processing_adaptive inputs"
-
-grab an arduino nano either ELEGOO OR ARDUINO/GENUINO brand
-
-update: Nanos are QUITE picky about computers. So find and install drivers before use...
 
 run and select the serial port your board is on. If you are on mac, this will appear as dev/tty/acmo/usb modem (insert number here) On windows, it appears as a COM port.
 
@@ -49,7 +49,7 @@ Once set up, go to  https://create.arduino.cc/editor/Glaf3rg/790022e4-979a-46ad-
 
 Select the board.
 
-Type in nano and select your board flavor.
+Type in "uno" and select your board flavor.
 
 Click load and as soon as the light on the microcontroller stops blinking, the system is ready to use!
 
