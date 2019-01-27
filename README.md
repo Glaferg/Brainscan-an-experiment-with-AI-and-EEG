@@ -17,12 +17,21 @@ This project is my debute and is a demo
 
 Materials:
 -Working computer
+
 -Two people(One to record mental state, one to test on
+
 -Google Chrome or Firefox quantom web browser
+
 -Internet(to download things)
+
 -Arduino Uno(elegoo or arduino/genuino)
+
 -Assembled modified Mindflex headset
--The Github repository downloaded to access "Boardom sheets" and AI configuration files. 
+
+-The Github repository https://github.com/Glaferg/Brainscan-an-experiment-with-AI-and-EEG downloaded to access "Boardom sheets" and AI
+configuration files
+
+-Complete notes on the project are listed at this site. 
 
 
 Download Wekinator from http://www.wekinator.org/downloads/
@@ -31,25 +40,27 @@ Download WekiInputHelper http://www.wekinator.org/input-helper/
 
 download wekinator's helper software for arduino input from http://www.wekinator.org/examples/#Arduino. DO NOT INSTALL RUN ON ARDUINO.
 
-Open WekiInputHelper and go to file/open project and select WekiBrain server. click Open.
+Open WekiInputHelper and go to file/open project and select WekiBrain server. It should be inside the repo. Click Open.
 
 Repeat in Wekinator, but find the wekibrain AI file.
 
-grab an arduino uno either ELEGOO OR ARDUINO/GENUINO brand
+Grab an arduino uno either ELEGOO OR ARDUINO/GENUINO brand
 
-look through your computer for an app called "serial with processing_adaptive inputs"
+Look through your computer for an app called "serial with processing_adaptive inputs"
 
-run and select the serial port your board is on. If you are on mac, this will appear as dev/tty/acmo/usb modem (insert number here) On windows, it appears as a COM port.
+Run and select the serial port your board is on. If you are on mac, this will appear as dev/tty/acmo/usb modem (insert number here) On windows, it appears as a COM port.
 
 It should say, "sending 0 inputs". Don't panic, this is normal.
 
 Go to Arduino Create at https://create.arduino.cc/ If you don't have a login or have the plugin installed, the site will guide you through the steps.
 
-Once set up, go to  https://create.arduino.cc/editor/Glaf3rg/790022e4-979a-46ad-9d5a-096c6f7f35b1/preview to install WekiBrain on your arduino. Select the COM/ USBMODEM that is the nano.
+Once set up, go to https://create.arduino.cc/editor/Glaf3rg/790022e4-979a-46ad-9d5a-096c6f7f35b1/preview to install WekiBrain on your arduino. 
 
 Select the board.
 
 Type in "uno" and select your board flavor.
+
+Select the COM/ USBMODEM port that is the uno.
 
 Click load and as soon as the light on the microcontroller stops blinking, the system is ready to use!
 
