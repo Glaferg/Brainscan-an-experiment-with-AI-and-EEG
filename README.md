@@ -15,24 +15,31 @@ This project is my debute and is a demo
 
 # How to do it
 
-Materials:
+# Materials:
 -Working computer
 
--Two people(One to record mental state, one to test on
+-Two people (One to record mental state of the subject and one to be the subject.)
 
 -Google Chrome or Firefox quantom web browser
 
--Internet(to download things)
+-Unfalutering Internet.
 
--Arduino Uno(elegoo or arduino/genuino)
+-Arduino Uno(Elegoo or Arduino/Genuino)
 
--Assembled modified Mindflex headset
+-Assembled modified Mindflex headset.
 
--The Github repository https://github.com/Glaferg/Brainscan-an-experiment-with-AI-and-EEG downloaded to access "Boardom sheets" and AI
+-The Github repository https://github.com/Glaferg/Brainscan-an-experiment-with-AI-and-EEG downloaded to access "Boredom sheets" and AI
 configuration files
+
+-Printed Boredom sheets
+
+-Two Pens.
+
+-Quiet area.  
 
 -Complete notes on the project are listed at this site. 
 
+Download The Github repository https://github.com/Glaferg/Brainscan-an-experiment-with-AI-and-EEG. Unpackage and move to documents folder on your computer.
 
 Download Wekinator from http://www.wekinator.org/downloads/
 
@@ -80,7 +87,17 @@ You should be finished with assembling your WekiBrain rig!
 So you're in. The Nano is running, data is flowing to Wekinator... What next?
 How to train the AI, of course. Inside Wekinator's beautiful visual wrapper for AI, there are 3 rows of neat little bars with names. First, the +/- on each row. Quite simply, the + records data into the ai's gesture, and the - removes the last record into the gesture. Each gesture is designed to isolate a condition. When the AI is running, the swirling blue bars show how certain the AI is, and the green light shows which thing is the AI's best guess. To make the AI more sensitive, drag the Match threshold bar up or down to decrese or increse sensitivity. 
 
+# The Proceedure
 
+1.  Find willing test subject.
+
+2.  Print out all six boring math sheets.
+
+3.  Run programs in this order: First, open WekiInputHelper and go to file/open project and select WekiBrain server. It should be inside the repository you downloaded. Second, click Open.
+
+4.  First, open Wekinator and go to file/open project and select code/. It should be inside the repository you downloaded. Second, click Open.
+
+ 
 # Roadmap:
 
 1: inital commit
