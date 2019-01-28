@@ -93,9 +93,9 @@ How to train the AI, of course. Inside Wekinator's beautiful visual wrapper for 
 
 2.  Print out all six boring math sheets.
 
-3.  Run programs in this order: First, open WekiInputHelper and go to file/open project and select WekiBrain server. It should be inside the repository you downloaded. Second, click Open.
+3.  Run programs in this order: First, open WekiInputHelper and go to file/open project and select in the pop-up "code/WekiBrain server.prog" It should be inside the repository you downloaded. Second, click Open.
 
-4.  First, open Wekinator and go to file/open project and select code/. It should be inside the repository you downloaded. Second, click Open.
+4.  First, open Wekinator and go to file/open project and select in the pop-up "code/wekibrain AI.1/wekibrain AI.1.wekproj" It should be inside the repository you downloaded. Second, click Open.
 
  
 # Roadmap:
